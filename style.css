@@ -471,3 +471,53 @@ transition:.6s;
 left:160%;
 
 }
+
+.camera-specs{
+
+margin:25px 0;
+
+padding:18px;
+
+background:rgba(255,255,255,.05);
+
+border:1px solid rgba(255,255,255,.08);
+
+border-radius:14px;
+
+backdrop-filter:blur(10px);
+
+}
+
+.camera-specs div{
+
+display:flex;
+
+justify-content:space-between;
+
+padding:8px 0;
+
+border-bottom:1px solid rgba(255,255,255,.08);
+
+}
+
+.camera-specs div:last-child{
+
+border-bottom:none;
+
+}
+
+.camera-specs strong{
+
+color:white;
+
+font-size:14px;
+
+}
+
+.camera-specs span{
+
+color:#bdbdbd;
+
+font-size:14px;
+
+}
