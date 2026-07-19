@@ -521,3 +521,75 @@ color:#bdbdbd;
 font-size:14px;
 
 }
+
+/* Story Pages */
+
+.story-page{
+
+max-width:900px;
+margin:auto;
+padding:120px 25px 80px;
+
+}
+
+.back-link{
+
+color:white;
+text-decoration:none;
+font-family:Inter,sans-serif;
+opacity:.7;
+transition:.3s;
+
+}
+
+.back-link:hover{
+
+opacity:1;
+
+}
+
+.story-page h1{
+
+font-size:4rem;
+margin:25px 0 10px;
+text-align:center;
+
+}
+
+.story-subtitle{
+
+text-align:center;
+font-size:1.1rem;
+opacity:.7;
+margin-bottom:50px;
+
+}
+
+.story-image{
+
+width:100%;
+border-radius:18px;
+margin-bottom:60px;
+
+}
+
+.story-content{
+
+max-width:700px;
+margin:auto;
+
+}
+
+.story-content h2{
+
+margin-top:50px;
+font-size:2rem;
+
+}
+
+.story-content p{
+
+line-height:1.9;
+font-size:1.05rem;
+
+}
